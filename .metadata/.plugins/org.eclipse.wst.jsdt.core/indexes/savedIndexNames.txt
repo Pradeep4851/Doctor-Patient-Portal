@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+D:\Pradeep\Doctor-Patient-Portal-AdvanceJavaWebProject-main\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1978944645.index
-1136000208.index
-4248632660.index
-941272278.index
-2967187844.index
-1759902425.index
